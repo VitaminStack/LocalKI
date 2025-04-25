@@ -56,4 +56,4 @@ dotnet restore
 dotnet build
 ```
 
-![Beispiel-Ausgabe](Screen.png)
+<img src="Screen.PNG"/>
